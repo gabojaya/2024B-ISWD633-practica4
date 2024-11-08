@@ -17,6 +17,9 @@ nproc
 En Windows (PowerShell):
 (Get-WmiObject -Class Win32_Processor).NumberOfLogicalProcessors
 
+![image](https://github.com/user-attachments/assets/28af9c17-908f-46e0-8e64-d2b77c0a9226)
+
+
 ## Ejemplos
 _Puedes copiar y ejecutar directamente cada uno de los comandos_
 
